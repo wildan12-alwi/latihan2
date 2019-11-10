@@ -3,7 +3,7 @@
 1. Masukkan bilangan sebanyak 3 buah bilangan.
 1. Setelah bilangan diinputkan, maka program akan membandingkan ke 3 buah bilangan tersebut.
 1. Perbandingan menggunakan statement if, elif, else.Ketika bilangan pertama (a), dibandingkan dengan bilangan ke dua (b), dan
-1. bilangan ke tiga (c). Apabila menghasilkan nilai true, maka akan tercetak nilai (a).
+ bilangan ke tiga (c). Apabila menghasilkan nilai true, maka akan tercetak nilai (a).
 1. Bandingkan kembali (b) dengan (a) dan (c). Apabila bernilai true maka akan tercetak nilai (b).
 1. Apabila perbandingan kedua tersebut bernilai false, maka akan tercetak nilai (c). Nilai yang tercetak merupakan nilai terbesar.
 
